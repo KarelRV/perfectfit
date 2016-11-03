@@ -1,0 +1,5 @@
+
+login-app:
+  build: login-app
+  ports:
+    - 80:80
